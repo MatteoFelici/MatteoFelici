@@ -5,7 +5,7 @@
 ### Passionate about Technology &nbsp;💻&nbsp; | &nbsp;Football &nbsp;⚽️&nbsp; | &nbsp;Books &nbsp;📚&nbsp; | &nbsp;Cats &nbsp;😼
 
 ### I'm currently learning about...
-* <img align="left" width="22px" src="./images/AI_Platform.png"/> &nbsp;&nbsp; [Google AI Platform][googlemltut]
+* <img align="left" width="22px" src="https://github.com/MatteoFelici/MatteoFelici/blob/master/images/AI_Platform.png?raw=true"/> &nbsp;&nbsp; [Google AI Platform][googlemltut]
 
 * <img align="left" width="22px" src="https://camo.githubusercontent.com/bd4adfc06b0e349c47f2bae3319544a2e547c796/68747470733a2f2f7777772e6b756265666c6f772e6f72672f696d616765732f6c6f676f2e737667"/> &nbsp;&nbsp; [Kubeflow](https://github.com/kubeflow/kubeflow)
 
