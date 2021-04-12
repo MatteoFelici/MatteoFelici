@@ -5,11 +5,11 @@
 ### Passionate about Technology &nbsp;💻&nbsp; | &nbsp;Football &nbsp;⚽️&nbsp; | &nbsp;Books &nbsp;📚&nbsp; | &nbsp;Cats &nbsp;😼
 
 ### I'm currently learning about...
-* <img align="left" width="22px" src="https://github.com/MatteoFelici/MatteoFelici/blob/main/images/AI_Platform.png?raw=true"/> &nbsp;&nbsp; [Google AI Platform][googlemltut]
+* <img align="left" width="22px" src="https://github.com/MatteoFelici/MatteoFelici/blob/main/images/AI_Platform.png?raw=true"/> [Google AI Platform][googlemltut]
 
-* <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/> &nbsp;&nbsp; [Tensorflow](https://www.tensorflow.org/)
+* <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/> [Tensorflow](https://www.tensorflow.org/)
 
-* ⚽️  &nbsp;&nbsp; [Football analysis](https://github.com/MatteoFelici/football)
+* ⚽️  &nbsp;&nbsp;&nbsp;&nbsp; [Football analysis](https://github.com/MatteoFelici/football)
 
 <br/>
 ---
