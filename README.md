@@ -7,7 +7,7 @@
 ### I'm currently learning about...
 * <img align="left" width="22px" src="https://github.com/MatteoFelici/MatteoFelici/blob/main/images/AI_Platform.png?raw=true"/> [Google AI Platform][googlemltut]
 
-* <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/> [Tensorflow](https://www.tensorflow.org/), in particular [TFX](https://www.tensorflow.org/tfx)
+* <img align="left" width="22px" src="https://beam.apache.org/images/logos/full-color/name-bottom/beam-logo-full-color-name-bottom.svg"/> [Apache Beam](https://beam.apache.org/)
 
 * ⚽️  &nbsp;&nbsp;&nbsp;&nbsp; [Football analysis](https://github.com/MatteoFelici/football)
 
