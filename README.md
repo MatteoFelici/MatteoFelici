@@ -1,17 +1,16 @@
 ## Hi there! I'm Matteo 👋
 
-##  I'm a Data Scientist | Machine Learning Engineer @ [Facile.it](https://facile.it/)
+##  I'm a Data Scientist  @ Meta
 
 ### Passionate about Technology &nbsp;💻&nbsp; | &nbsp;Football &nbsp;⚽️&nbsp; | &nbsp;Books &nbsp;📚&nbsp; | &nbsp;Cats &nbsp;😼
 
 ### I'm currently learning about...
-* <img align="left" width="22px" src="https://github.com/MatteoFelici/MatteoFelici/blob/main/images/AI_Platform.png?raw=true"/> [Google AI Platform][googlemltut]
+* <img align="left" width="22px" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg"/> [Transformers](https://huggingface.co/learn/llm-course)
 
-* <img align="left" width="22px" src="https://beam.apache.org/images/logos/full-color/name-bottom/beam-logo-full-color-name-bottom.svg"/> [Apache Beam](https://beam.apache.org/)
+* <img align="left" width="22px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-ytv7trkoaqcnvr5yxcvvk.png/dbt-384wi7nth5d4pvytczw6vn.png?_a=DATAiZiuZAA0"/> [DBT](https://learn.getdbt.com/)
 
-* ⚽️  &nbsp;&nbsp;&nbsp;&nbsp; [Football analysis](https://github.com/MatteoFelici/football)
+* <img align="left" width="22px" src="https://www.mlflow.org/docs/latest/images/logo-dark.svg"/> [MLflow](https://www.mlflow.org/docs/latest/ml/getting-started/) and MLOps
 
-<br/>
 ---
 
 You can find me on
@@ -23,7 +22,6 @@ You can find me on
 
 
 
-[googlemltut]: https://towardsdatascience.com/tagged/google-ml-tutorials
 [linkedin]: https://www.linkedin.com/in/matteofelici/?locale=en_US
 [twitter]: https://twitter.com/matteofelici87
 [medium]: https://towardsdatascience.com/@matteofelici87
